@@ -1,0 +1,7 @@
+/*Filename - App.css*/
+.app-container {
+	display: grid;
+	min-height: 100vh;
+	grid-template-columns: 1fr;  /* Single column layout */
+	grid-template-rows: auto 1fr;
+  }
