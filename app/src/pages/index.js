@@ -13,7 +13,7 @@ function Home() {
 			<Container>
 				<Row>
 					<h1 class="text-big" className='text-center'>
-						Su taller mecánico de confianza
+						Su taller mecánico de confianza 123
 					</h1>
 				</Row>
 				<Row>
